@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@excalidraw/excalidraw": "^0.18.0",
-    "@hookform/resolvers": "^5.0.1",
+    "@hookform/resolvers": "^5.2.2",
     "@types/snapsvg": "^0.5.8",
     "@types/underscore": "^1.13.0",
     "@types/webfontloader": "^1.6.38",
