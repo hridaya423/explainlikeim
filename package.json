@@ -14,7 +14,7 @@
     "@types/snapsvg": "^0.5.8",
     "@types/underscore": "^1.13.0",
     "@types/webfontloader": "^1.6.38",
-    "groq-sdk": "^0.22.0",
+    "groq-sdk": "^0.37.0",
     "js-sequence-diagrams": "^0.0.1-security",
     "mermaid": "^11.12.2",
     "next": "15.3.2",
