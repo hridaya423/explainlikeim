@@ -20,7 +20,7 @@
     "next": "16.1.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "react-hook-form": "^7.68.0",
+    "react-hook-form": "^7.69.0",
     "reactflow": "^11.11.4",
     "roughjs": "^4.6.6",
     "snapsvg": "^0.5.1",
