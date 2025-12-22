@@ -17,7 +17,7 @@
     "groq-sdk": "^0.37.0",
     "js-sequence-diagrams": "^0.0.1-security",
     "mermaid": "^11.12.2",
-    "next": "16.0.10",
+    "next": "16.1.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-hook-form": "^7.68.0",
